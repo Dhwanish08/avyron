@@ -8,7 +8,7 @@ const About = () => {
             <header className="bg-cream dark:bg-background-dark/50 py-24 md:py-32 pt-40">
                 <div className="max-w-7xl mx-auto px-6 text-center">
                     <h1 className="text-5xl md:text-7xl font-extrabold text-charcoal dark:text-white tracking-tight mb-6">
-                        About <span className="text-primary">Avyron</span>
+                        About <span className="text-primary">Brandly</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">
                         We bridge the gap between visionary ideas and measurable market success.
@@ -25,13 +25,13 @@ const About = () => {
                     <h2 className="text-3xl font-bold text-center mb-10 dark:text-white">Our Story</h2>
                     <div className="space-y-6 text-lg text-gray-700 dark:text-gray-300 leading-loose text-center">
                         <p>
-                            Founded on the belief that every brand has a unique story waiting to be told, Avyron Agency started as a small collective of three creative minds in a shared workspace. Our journey began with a single mission: to provide high-impact marketing strategies that don't just look good but drive actual growth.
+                            Founded on the belief that every brand has a unique story waiting to be told, Brandly Agency started as a small collective of three creative minds in a shared workspace. Our journey began with a single mission: to provide high-impact marketing strategies that don't just look good but drive actual growth.
                         </p>
                         <p>
                             Over the last decade, we have evolved into a full-service growth powerhouse. We've helped startups find their voice and established enterprises rediscover their spark. Our growth-focused philosophy ensures that every pixel we move and every line of code we write serves a strategic purpose.
                         </p>
                         <p>
-                            Today, Avyron stands as a testament to the power of persistence and data-backed creativity. We aren't just an agency; we are your strategic partners in the digital landscape.
+                            Today, Brandly stands as a testament to the power of persistence and data-backed creativity. We aren't just an agency; we are your strategic partners in the digital landscape.
                         </p>
                     </div>
                 </div>
@@ -111,7 +111,7 @@ const About = () => {
                     <div className="relative rounded-2xl overflow-hidden aspect-[21/9] mb-12 shadow-2xl">
                         <img
                             src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-uh_tHDU62EfRQ3WlXjVMgoVVylJqakMuQQr30Vfc_pGdXS35nay6b3nwBkvodn-XVOSGMcopaibdPD1-LxWZp36TO5bH9FzE5tF2hDKEG_DYuUfVuiKLXvdJJ34-j2ElLqzWDX24gH8P-GKx8q7srana0VyuWIcV6r-ZxFgb0HETSRv81gkMtW_H61xZzihRO7CkY_ZGDQKNqGotYBxa4WS6wSoKXGT8v9Xs6LOeuenH-JhkJbmZkqyim2tjHqcbMcLaJ8G4C5A"
-                            alt="Avyron Team"
+                            alt="Brandly Team"
                             className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex items-end p-8 md:p-16">

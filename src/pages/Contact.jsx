@@ -74,7 +74,7 @@ const Contact = () => {
                                             name="company"
                                             value={formData.company}
                                             onChange={handleChange}
-                                            placeholder="Avyron Inc."
+                                            placeholder="Brandly Inc."
                                             className="w-full bg-background-light dark:bg-neutral-dark/50 border-transparent focus:border-primary focus:ring-1 focus:ring-primary rounded px-4 py-3 text-neutral-dark dark:text-white outline-none transition-all"
                                         />
                                     </div>
@@ -177,7 +177,7 @@ const Contact = () => {
                                             </div>
                                             <div>
                                                 <p className="text-xs uppercase tracking-widest text-neutral-text/60 dark:text-neutral-light/40 font-bold mb-1">Email us</p>
-                                                <a href="mailto:hello@avyron.com" className="text-xl font-medium hover:text-primary transition-colors">hello@avyron.com</a>
+                                                <a href="mailto:hello@brandly.com" className="text-xl font-medium hover:text-primary transition-colors">hello@brandly.com</a>
                                             </div>
                                         </div>
                                         <div className="flex items-start space-x-4 group">
@@ -253,7 +253,7 @@ const Contact = () => {
                         <div className="absolute inset-0 flex items-center justify-center">
                             <div className="bg-white dark:bg-background-dark p-4 rounded-xl shadow-2xl flex items-center space-x-3 border-2 border-primary group-hover:scale-110 transition-transform">
                                 <span className="material-icons text-primary">location_on</span>
-                                <span className="font-bold text-neutral-dark dark:text-white">Visit Avyron LA</span>
+                                <span className="font-bold text-neutral-dark dark:text-white">Visit Brandly LA</span>
                             </div>
                         </div>
                     </div>

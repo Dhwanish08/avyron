@@ -9,9 +9,9 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
                 <Link to="/" className="flex items-center gap-2 group">
                     <div className="w-8 h-8 bg-primary rounded flex items-center justify-center group-hover:scale-110 transition-transform">
-                        <span className="text-white font-bold text-xl">A</span>
+                        <span className="text-white font-bold text-xl">B</span>
                     </div>
-                    <span className="text-2xl font-extrabold tracking-tight text-charcoal dark:text-white uppercase group-hover:text-primary transition-colors">Avyron</span>
+                    <span className="text-2xl font-extrabold tracking-tight text-charcoal dark:text-white uppercase group-hover:text-primary transition-colors">Brandly</span>
                 </Link>
 
                 {/* Desktop Menu */}

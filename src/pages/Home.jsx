@@ -110,7 +110,7 @@ const Home = () => {
                             <div className="flex text-primary mb-4">
                                 <span className="material-symbols-outlined">star</span><span className="material-symbols-outlined">star</span><span className="material-symbols-outlined">star</span><span className="material-symbols-outlined">star</span><span className="material-symbols-outlined">star</span>
                             </div>
-                            <p className="text-charcoal/80 italic mb-6">"Avyron transformed our digital approach. Our lead quality has never been higher."</p>
+                            <p className="text-charcoal/80 italic mb-6">"Brandly transformed our digital approach. Our lead quality has never been higher."</p>
                             <div className="font-bold text-charcoal">Sarah Jenkins</div>
                             <div className="text-sm text-charcoal/60">CEO, TechStart</div>
                         </div>

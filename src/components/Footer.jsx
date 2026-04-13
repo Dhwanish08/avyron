@@ -8,9 +8,9 @@ const Footer = () => {
                     <div className="space-y-6">
                         <div className="flex items-center gap-2">
                             <div className="w-8 h-8 bg-primary rounded flex items-center justify-center">
-                                <span className="text-white font-bold text-xl">A</span>
+                                <span className="text-white font-bold text-xl">B</span>
                             </div>
-                            <span className="text-2xl font-extrabold tracking-tight">Avyron</span>
+                            <span className="text-2xl font-extrabold tracking-tight">Brandly</span>
                         </div>
                         <p className="text-white/60 leading-relaxed">
                             Leading marketing agency focused on sustainable growth and high-impact digital strategies.
@@ -48,7 +48,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/40">
-                    <p>© 2024 Avyron Agency. All rights reserved.</p>
+                    <p>© 2024 Brandly Agency. All rights reserved.</p>
                     <div className="flex gap-8">
                         <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
                         <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

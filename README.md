@@ -1,8 +1,8 @@
-# Avyron
+# Brandly
 
 > **Grow Your Brand With Smart Marketing**
 
-Avyron is a growth-focused marketing agency specializing in personal branding, high-impact creative content, and data-driven performance marketing. This repository contains the official digital presence of the agency, built with a modern, high-performance tech stack.
+Brandly is a growth-focused marketing agency specializing in personal branding, high-impact creative content, and data-driven performance marketing. This repository contains the official digital presence of the agency, built with a modern, high-performance tech stack.
 
 ---
 
@@ -60,8 +60,8 @@ Precision-targeted campaigns designed to maximize ROI.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dhwanish08/avyron.git
-   cd avyron
+   git clone https://github.com/Dhwanish08/brandly.git
+   cd brandly
    ```
 
 2. Install dependencies:
@@ -93,7 +93,7 @@ npm run preview
 ## 📂 Project Structure
 
 ```text
-avyron/
+brandly/
 ├── public/          # Static assets
 ├── src/
 │   ├── components/  # Reusable UI components (Navbar, Footer, etc.)
@@ -110,8 +110,8 @@ avyron/
 
 ## 📄 License
 
-This project is private and intended for use by the Avyron Agency.
+This project is private and intended for use by the Brandly Agency.
 
 ---
 
-Built with ❤️ by the Avyron Team.
+Built with ❤️ by the Brandly Team.
